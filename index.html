@@ -501,8 +501,8 @@
 
         <!--========== About Section ==========-->
         <section class="section" id="about">
-            <div class="container">
-                <div class="card about-card parallax">
+            <div class="card about-card parallax">
+                <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-lg-5">
                             <h2 class="about-ttl">Join other games, get points, get prizes</h2>
@@ -759,95 +759,95 @@
                     <h2 class="title">Player Reviews</h2>
                     <a href="" class="link-primary">More Reviews</a>
                 </div>
+            </div>
 
-                <!--========== Custom Slick Slider ==========-->
-                <div id="review-slider">
-                    <div class="card rw-card shadow-sm">
-                        <div class="rw-content">
-                            <div class="rw-top">
-                                <div class="rw-icon">
-                                    <i class="icon-quotes-left"></i>
-                                </div>
-                                <div class="rw-rating">
-                                    4.9 <i class="icon-star-full"></i>
-                                </div>
+            <!--========== Custom Slick Slider ==========-->
+            <div id="review-slider">
+                <div class="card rw-card shadow-sm">
+                    <div class="rw-content">
+                        <div class="rw-top">
+                            <div class="rw-icon">
+                                <i class="icon-quotes-left"></i>
                             </div>
-                            <span class="rw-date">16 March, 2023</span>
-                            <p class="rw-text">
-                                Lorem ipsum dolor sitamet const adipiscng Duis eletum sollicitudin is yaugue euismods.
-                            </p>
-                            <div class="rw-author">
-                                <div class="user-box">
-                                    <img src="src/assets/img/user/user-1.jpg" alt="user1" class="user-avatar">
-                                </div>
-                                <span class="rw-author_name">Jhon Doe</span>
+                            <div class="rw-rating">
+                                4.9 <i class="icon-star-full"></i>
                             </div>
                         </div>
-                    </div>
-                    <div class="card rw-card shadow-sm">
-                        <div class="rw-content">
-                            <div class="rw-top">
-                                <div class="rw-icon">
-                                    <i class="icon-quotes-left"></i>
-                                </div>
-                                <div class="rw-rating">
-                                    4.8 <i class="icon-star-full"></i>
-                                </div>
+                        <span class="rw-date">16 March, 2023</span>
+                        <p class="rw-text">
+                            Lorem ipsum dolor sitamet const adipiscng Duis eletum sollicitudin is yaugue euismods.
+                        </p>
+                        <div class="rw-author">
+                            <div class="user-box">
+                                <img src="src/assets/img/user/user-1.jpg" alt="user1" class="user-avatar">
                             </div>
-                            <span class="rw-date">4 April, 2023</span>
-                            <p class="rw-text">
-                                Dolor minim in pariatur in deserunt laboris eu pariatur labore excepteur cupidatat cupidatat duis dolor in.
-                            </p>
-                            <div class="rw-author">
-                                <div class="user-box">
-                                    <img src="src/assets/img/user/user-9.jpg" alt="user1" class="user-avatar">
-                                </div>
-                                <span class="rw-author_name">Jhon Doe</span>
-                            </div>
+                            <span class="rw-author_name">Jhon Doe</span>
                         </div>
                     </div>
-                    <div class="card rw-card shadow-sm">
-                        <div class="rw-content">
-                            <div class="rw-top">
-                                <div class="rw-icon">
-                                    <i class="icon-quotes-left"></i>
-                                </div>
-                                <div class="rw-rating">
-                                    5.0 <i class="icon-star-full"></i>
-                                </div>
+                </div>
+                <div class="card rw-card shadow-sm">
+                    <div class="rw-content">
+                        <div class="rw-top">
+                            <div class="rw-icon">
+                                <i class="icon-quotes-left"></i>
                             </div>
-                            <span class="rw-date">16 March, 2023</span>
-                            <p class="rw-text">
-                                Lorem ipsum dolor sitamet const adipiscng Duis eletum sollicitudin is yaugue euismods.
-                            </p>
-                            <div class="rw-author">
-                                <div class="user-box">
-                                    <img src="src/assets/img/user/user-3.jpg" alt="user1" class="user-avatar">
-                                </div>
-                                <span class="rw-author_name">Jhon Doe</span>
+                            <div class="rw-rating">
+                                4.8 <i class="icon-star-full"></i>
                             </div>
                         </div>
+                        <span class="rw-date">4 April, 2023</span>
+                        <p class="rw-text">
+                            Dolor minim in pariatur in deserunt laboris eu pariatur labore excepteur cupidatat cupidatat duis dolor in.
+                        </p>
+                        <div class="rw-author">
+                            <div class="user-box">
+                                <img src="src/assets/img/user/user-9.jpg" alt="user1" class="user-avatar">
+                            </div>
+                            <span class="rw-author_name">Jhon Doe</span>
+                        </div>
                     </div>
-                    <div class="card rw-card shadow-sm">
-                        <div class="rw-content">
-                            <div class="rw-top">
-                                <div class="rw-icon">
-                                    <i class="icon-quotes-left"></i>
-                                </div>
-                                <div class="rw-rating">
-                                    4.9 <i class="icon-star-full"></i>
-                                </div>
+                </div>
+                <div class="card rw-card shadow-sm">
+                    <div class="rw-content">
+                        <div class="rw-top">
+                            <div class="rw-icon">
+                                <i class="icon-quotes-left"></i>
                             </div>
-                            <span class="rw-date">16 March, 2023</span>
-                            <p class="rw-text">
-                                Dolor minim in pariatur in deserunt laboris eu pariatur labore excepteur cupidatat cupidatat duis dolor in.
-                            </p>
-                            <div class="rw-author">
-                                <div class="user-box">
-                                    <img src="src/assets/img/user/user-10.jpg" alt="user1" class="user-avatar">
-                                </div>
-                                <span class="rw-author_name">Jhon Doe</span>
+                            <div class="rw-rating">
+                                5.0 <i class="icon-star-full"></i>
                             </div>
+                        </div>
+                        <span class="rw-date">16 March, 2023</span>
+                        <p class="rw-text">
+                            Lorem ipsum dolor sitamet const adipiscng Duis eletum sollicitudin is yaugue euismods.
+                        </p>
+                        <div class="rw-author">
+                            <div class="user-box">
+                                <img src="src/assets/img/user/user-3.jpg" alt="user1" class="user-avatar">
+                            </div>
+                            <span class="rw-author_name">Jhon Doe</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card rw-card shadow-sm">
+                    <div class="rw-content">
+                        <div class="rw-top">
+                            <div class="rw-icon">
+                                <i class="icon-quotes-left"></i>
+                            </div>
+                            <div class="rw-rating">
+                                4.9 <i class="icon-star-full"></i>
+                            </div>
+                        </div>
+                        <span class="rw-date">16 March, 2023</span>
+                        <p class="rw-text">
+                            Dolor minim in pariatur in deserunt laboris eu pariatur labore excepteur cupidatat cupidatat duis dolor in.
+                        </p>
+                        <div class="rw-author">
+                            <div class="user-box">
+                                <img src="src/assets/img/user/user-10.jpg" alt="user1" class="user-avatar">
+                            </div>
+                            <span class="rw-author_name">Jhon Doe</span>
                         </div>
                     </div>
                 </div>
