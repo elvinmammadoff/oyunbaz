@@ -543,6 +543,85 @@
                 </div>
             </div>
         </section>
+ 
+
+        <!--========== Tournament Section ==========-->
+        <section class="section" id="tournament">
+            <div class="container">
+                <div class="title-horz">
+                    <h2 class="title">Players Of The Week</h2>
+                    <a href="" class="link-primary">More Players</a>
+                </div>
+                <p class="desc">Lorem ipsum dolor sitamet const adipiscng Duis eletum sollicitudin is yaugue euismods.</p>
+                <div class="pw-list">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-4">
+                            <div class="pw-card">
+                                <div class="pw-avatar">
+                                    <img src="./src/assets/img/avatar-circle.png" alt="" class="pw-avatar_bg">
+                                    <div class="pw-avatar_circle">
+                                        <img src="./src/assets/img/user/user-1.jpg" alt="">
+                                    </div>
+                                    <div class="pw-place">1 <sup>st</sup></div>
+                                </div>
+                                <h3 class="pw-name">Jhon Doe</h3>
+                                <div class="pw-prize">
+                                    <img src="src/assets/img/coin.png" alt="coin">
+                                    <h4 class="pw-prize_amount">2000 coin prize</h4>
+                                </div>
+                                <div class="pw-credit">
+                                    <img src="src/assets/img/prize.svg" alt="prize">
+                                    <h4 class="pw-credit_amount">+ 20 credits</h4>
+                                </div>
+                                <a href="" class="pw-link link-primary">View Profile</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="pw-card">
+                                <div class="pw-avatar">
+                                    <img src="./src/assets/img/avatar-circle.png" alt="" class="pw-avatar_bg">
+                                    <div class="pw-avatar_circle">
+                                        <img src="./src/assets/img/user/user-2.jpg" alt="">
+                                    </div>
+                                    <div class="pw-place">2 <sup>nd</sup></div>
+                                </div>
+                                <h3 class="pw-name">Jhon Doe</h3>
+                                <div class="pw-prize">
+                                    <img src="src/assets/img/coin.png" alt="coin">
+                                    <h4 class="pw-prize_amount">2000 coin prize</h4>
+                                </div>
+                                <div class="pw-credit">
+                                    <img src="src/assets/img/prize.svg" alt="prize">
+                                    <h4 class="pw-credit_amount">+ 20 credits</h4>
+                                </div>
+                                <a href="" class="pw-link link-primary">View Profile</a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                            <div class="pw-card">
+                                <div class="pw-avatar">
+                                    <img src="./src/assets/img/avatar-circle.png" alt="" class="pw-avatar_bg">
+                                    <div class="pw-avatar_circle">
+                                        <img src="./src/assets/img/user/user-9.jpg" alt="">
+                                    </div>
+                                    <div class="pw-place">3 <sup>rd</sup></div>
+                                </div>
+                                <h3 class="pw-name">Jhon Doe</h3>
+                                <div class="pw-prize">
+                                    <img src="src/assets/img/coin.png" alt="coin">
+                                    <h4 class="pw-prize_amount">2000 coin prize</h4>
+                                </div>
+                                <div class="pw-credit">
+                                    <img src="src/assets/img/prize.svg" alt="prize">
+                                    <h4 class="pw-credit_amount">+ 20 credits</h4>
+                                </div>
+                                <a href="" class="pw-link link-primary">View Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
         <!--========== Games Section ==========-->
@@ -666,85 +745,6 @@
                                     </div>
                                 </div>
                             </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
- 
-
-        <!--========== Tournament Section ==========-->
-        <section class="section" id="tournament">
-            <div class="container">
-                <div class="title-horz">
-                    <h2 class="title">Players Of The Week</h2>
-                    <a href="" class="link-primary">More Players</a>
-                </div>
-                <p class="desc">Lorem ipsum dolor sitamet const adipiscng Duis eletum sollicitudin is yaugue euismods.</p>
-                <div class="pw-list">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-4">
-                            <div class="pw-card">
-                                <div class="pw-avatar">
-                                    <img src="./src/assets/img/avatar-circle.png" alt="" class="pw-avatar_bg">
-                                    <div class="pw-avatar_circle">
-                                        <img src="./src/assets/img/user/user-1.jpg" alt="">
-                                    </div>
-                                    <div class="pw-place">1 <sup>st</sup></div>
-                                </div>
-                                <h3 class="pw-name">Jhon Doe</h3>
-                                <div class="pw-prize">
-                                    <img src="src/assets/img/coin.png" alt="coin">
-                                    <h4 class="pw-prize_amount">2000 coin prize</h4>
-                                </div>
-                                <div class="pw-credit">
-                                    <img src="src/assets/img/prize.svg" alt="prize">
-                                    <h4 class="pw-credit_amount">+ 20 credits</h4>
-                                </div>
-                                <a href="" class="pw-link link-primary">View Profile</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <div class="pw-card">
-                                <div class="pw-avatar">
-                                    <img src="./src/assets/img/avatar-circle.png" alt="" class="pw-avatar_bg">
-                                    <div class="pw-avatar_circle">
-                                        <img src="./src/assets/img/user/user-2.jpg" alt="">
-                                    </div>
-                                    <div class="pw-place">2 <sup>nd</sup></div>
-                                </div>
-                                <h3 class="pw-name">Jhon Doe</h3>
-                                <div class="pw-prize">
-                                    <img src="src/assets/img/coin.png" alt="coin">
-                                    <h4 class="pw-prize_amount">2000 coin prize</h4>
-                                </div>
-                                <div class="pw-credit">
-                                    <img src="src/assets/img/prize.svg" alt="prize">
-                                    <h4 class="pw-credit_amount">+ 20 credits</h4>
-                                </div>
-                                <a href="" class="pw-link link-primary">View Profile</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <div class="pw-card">
-                                <div class="pw-avatar">
-                                    <img src="./src/assets/img/avatar-circle.png" alt="" class="pw-avatar_bg">
-                                    <div class="pw-avatar_circle">
-                                        <img src="./src/assets/img/user/user-9.jpg" alt="">
-                                    </div>
-                                    <div class="pw-place">3 <sup>rd</sup></div>
-                                </div>
-                                <h3 class="pw-name">Jhon Doe</h3>
-                                <div class="pw-prize">
-                                    <img src="src/assets/img/coin.png" alt="coin">
-                                    <h4 class="pw-prize_amount">2000 coin prize</h4>
-                                </div>
-                                <div class="pw-credit">
-                                    <img src="src/assets/img/prize.svg" alt="prize">
-                                    <h4 class="pw-credit_amount">+ 20 credits</h4>
-                                </div>
-                                <a href="" class="pw-link link-primary">View Profile</a>
-                            </div>
                         </div>
                     </div>
                 </div>
