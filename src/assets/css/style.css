@@ -1516,12 +1516,9 @@ a:hover {
     row-gap: 1rem;
     border-radius: 16px;
     padding: 4rem 2rem;
-    background: #120d21;
+    background: #08000a;
     padding: 3rem 2rem 2rem;
     border-radius: 14px;
-}
-
-.pw-card:hover {
     box-shadow: 0 0 10px 0px #e459f2;
 }
 
