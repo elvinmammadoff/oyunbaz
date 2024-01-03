@@ -724,27 +724,6 @@
                                     </div>
                                 </div>
                             </a>
-                            <a href="" class="gcard-item">
-                                <img src="src/assets/img/games/games-5.jpg" alt="games5">
-                                <div class="gcard_details">
-                                    <div class="gcard-bottom">
-                                        <div class="gcard-rating">Rating: <span><i class="icon-star-full"></i>
-                                                4,9</span></div>
-                                        <h4 class="gcard-title">Game #5</h4>
-                                        <div class="gcard-catg">Action</div>
-                                        <div class="gcard-stats">
-                                            <div class="gcard-stats_col">
-                                                <span class="gcard-stats_num">6.6M</span>
-                                                <p class="gcard-stats_label">Reviews</p>
-                                            </div>
-                                            <div class="gcard-stats_col">
-                                                <span class="gcard-stats_num">610M+</span>
-                                                <p class="gcard-stats_label">Downloads</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
                         </div>
                     </div>
                 </div>
