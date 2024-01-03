@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Title -->
-  <title>Documentation - MetaGamer</title>
+  <title>Documentation - Oyunbaz</title>
 
   <link rel="stylesheet" href="css/normalize.min.css">
   <link rel="stylesheet" href="css/foundation.css">
@@ -82,16 +82,16 @@
             <div class="large-10 large-centered columns">
       
               <div class="name">
-                <h3>MetaGamer - Game and Gaming HTML5 Template <span>v1.0</span></h3>
+                <h3>Oyunbaz - Game and Gaming HTML5 Template <span>v1.0</span></h3>
                 <p>Premium Bootstrap HTML5 Template Documentation</p>
               </div>
       
               <ul class="meta">
                 <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></li>
-                <li><strong>Live Preview:</strong> <a href="https://metagamer.netlify.app/">View Demo</a></li>
+                <li><strong>Live Preview:</strong> <a href="https://oyunbaz.netlify.app/">View Demo</a></li>
               </ul>
       
-              <p>Thank you for purchasing <code>MetaGamer</code> HTML5 Template. <br> You can find the detailed information about the template in this document. <br> If you have any questions that are beyond the scope of this help
+              <p>Thank you for purchasing <code>Oyunbaz</code> HTML5 Template. <br> You can find the detailed information about the template in this document. <br> If you have any questions that are beyond the scope of this help
                 file, <br> please feel free to email via the <a href="https://themeforest.net/user/alissio" target="_blank">Profile page</a>.</p>
       
             </div>
@@ -104,20 +104,13 @@
         <section id="read-first" class="section">
 
           <h1>Howdy!</h1>
-          <p class="lead">You are a shining owner of a regular license based on MetaGamer - Game & Gaming HTML5 Template.
+          <p class="lead">You are a shining owner of a regular license based on Oyunbaz - Game & Gaming HTML5 Template.
           </p>
-          <p>First of all, Thank you so much for purchasing the <code>MetaGamer</code> HTML5 Template and for being our loyal customer. You are
+          <p>First of all, Thank you so much for purchasing the <code>Oyunbaz</code> HTML5 Template and for being our loyal customer. You are
             entitled to get free updates to this product + exceptional support (as per market policy) from the author directly.</p>
           <p>This documentation is to help you understand the product code structure. Please go through the
             documentation carefully to understand how this product is made and how to edit this properly. Basic HTML and
             CSS knowledge is required to customize.</p>
-            <p>In download folder you will find <strong>Three folders</strong>:</p>
-            <ul class="mb-2">
-              <li><code>home1</code> - home version #1</li>
-              <li><code>home2</code> - home version #2</li>
-              <li><code>home3</code> - home version #3</li>
-            </ul>
-            <img src="./img/files.png" alt="">
             <p class="mt-2">Remember, when you want to use the shortCode/element in any pages you need to adjust the section spacing by giving <code>margin</code> or <code>padding</code>. Don't get panic if you messed up anything when you edit the template. We are always available to support our customer.</p>
 
         </section>
@@ -128,7 +121,7 @@
 
           <br>
 
-          <p>Unzip the package you have downloaded from themeforest and open the <code>Template</code> folder to find all the template files. You wil get <code>home1</code>, <code>home2</code>, <code>home3</code> folders in there. Which home version want to use you need to upload this folder to your hosting web server using FTP or cPanel in order to use it on your website. Without Live or Local server you may see something broken on your website. Because some plugin are not working without server.<br>
+          <p>Unzip the package you have downloaded from themeforest and open the <code>Template</code> folder to find all the template files. Upload this folder to your hosting web server using FTP or cPanel in order to use it on your website. Without Live or Local server you may see something broken on your website. Because some plugin are not working without server.<br>
             In extracted folder you can see following folders:
           <p>
 
@@ -182,15 +175,12 @@
       
       <!--========== About Section ==========-->
       <section class="section" id="about">...</section>
+      
+      <!--========== Tournament Section ==========-->
+      <section class="section" id="tournament">...</section>
 
       <!--========== Games Section ==========-->
       <section class="section" id="games">...</section>
-      
-      <!--========== Community Section ==========-->
-      <section class="section" id="community">...</section>
-      
-      <!--========== Community Modal ==========-->
-      <div class="modal fade" id="exampleModal" tabindex="-1" aria-hidden="true">...</div>
 
       <!--========== Reviews Section ==========-->
       <section class="section" id="reviews">...</section>
@@ -257,8 +247,8 @@
   <pre data-language="">
     <code class="language-markup">
       <a class="navbar-brand" href="#home">
-          <img src="src/assets/img/logo.svg" alt="MetaGamer">
-          <span>MetaGamer</span>
+          <img src="src/assets/img/logo.png" alt="Oyunbaz">
+          <span>Oyunbaz</span>
       </a>
     </code>
   </pre>
@@ -271,7 +261,7 @@
           <h1 class="section-title"><span>05</span> Fonts Settings</h1>
 
           <br>
-          <p>In MetaGamer we use 'Nunito Sans', sans-serif font.
+          <p>In Oyunbaz we use 'Nunito Sans', sans-serif font.
             You can change this font from index.html file:</p>
 <pre data-language="">
   <code class="language-markup">
@@ -329,15 +319,15 @@
 @charset "UTF-8";
 
 /*
-  Theme Name: MetaGamer
+  Theme Name: Oyunbaz
   Theme URI: themeforest.net/user/alissio
   Author: Alissio
-  Author URI: metagamer.netlify.app
+  Author URI: oyunbaz.netlify.app
   Description: Alissio – Game & Gaming HTML Template
   License: GNU General Public License v2 or later
   License URI: www.gnu.org/licenses/gpl-2.0.html
   Tags: one-column, two-columns, three-columns, custom-colors, custom-header, custom-menu, custom-logo, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
-  Text Domain: metagamer
+  Text Domain: oyunbaz
   Version: 1.0.0
 */
 
@@ -528,7 +518,7 @@ i {
 
 /*======
 *
-* MetaGamer Scripts
+* Oyunbaz Scripts
 *
 ======*/
 
@@ -706,12 +696,10 @@ function scrollToTop() {
 
           <ul class="credits">
             <li><a href="https://getbootstrap.com/" target="_blank" class="fs-1_4 bold">Bootstrap</a></li>
-            <li><strong>Stock image</strong> <a href="https://www.freepik.com/" target="_blank">Freepik</a>, 
+            <li><strong>Free images</strong> 
               <a href="https://unsplash.com/" target="_blank">Unsplash</a>, 
               <a href="https://pixabay.com/" target="_blank">Pixabay</a>, 
-              <a href="https://wallpapers.com/" target="_blank">Wallpapers</a>, 
-              <a href="https://userstock.io/" target="_blank">Userstock</a>,
-              <a href="https://www.shutterstock.com/" target="_blank">Shutterstock</a>
+              <a href="https://userstock.io/" target="_blank">Userstock</a>
             </li>
             <li>
               <a href="https://icomoon.io/" target="_blank" class="fs-1_4 bold">Icomoon</a>
@@ -738,7 +726,7 @@ function scrollToTop() {
 
           <pre class="css">
 
-  V. 1.0.0 – 05.12.2023
+  V. 1.0.0 – 05.01.2024
   - Initial release
 </pre>
         </section>
@@ -755,7 +743,7 @@ function scrollToTop() {
             <a href="https://themeforest.net/user/alissio" target="_blank" class="fs-2">Alissio</a>
 
             <footer class="mt-4">
-              <p>© Documentation - MetaGamer</p>
+              <p>© Documentation - Oyunbaz</p>
             </footer>
             
         </section>

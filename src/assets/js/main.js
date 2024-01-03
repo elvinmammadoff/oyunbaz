@@ -9,7 +9,7 @@
 
 /*======
 *
-* MetaGamer Scripts
+* Oyunbaz Scripts
 *
 ======*/
 
